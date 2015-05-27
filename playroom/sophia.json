@@ -1,0 +1,12 @@
+{
+  "name": "Sophia",
+  "source": {
+    "version-key": "",
+    "url": "https://github.com/Strikingwolf/Sophia/archive/test.zip",
+    "method": "download"
+  },
+  "version": "test",
+  "dependencies": {
+    "python": "3.4"
+  }
+}
